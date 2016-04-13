@@ -1,6 +1,6 @@
 var woot = {
-    woot:'xxx'
+    zzz:'woot'
 };
 
 
-var xxx = 'woot';
+var zzz = 'woot';
